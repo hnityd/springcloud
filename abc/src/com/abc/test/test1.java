@@ -7,7 +7,7 @@ public class test1 {
 		System.out.println("test void");
 	}
 	public static void main(String[] args) {
-		System.out.println("Git²âÊÔ´úÂë ");
+		System.out.println("Gitæµ‹è¯•");
 		System.out.println("" + new Random().nextInt(100));
 	}
 	
